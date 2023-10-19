@@ -1,3 +1,6 @@
+// Escreva um programa que exiba os múltiplos de 3 contando de 1 a 10000
+//
+// Este código foi feito utilizando https://dgadelha.github.io/Portugol-Webstudio/
 programa {
   funcao inicio() {
     inteiro contador = 1
